@@ -27,4 +27,4 @@ Making a `GET` request to `/generate` will return a randomly-generated name.
 
 ## Notes:
 
-This is meant to be deployed on Heroku. Fetching may take a few seconds while Heroku spins up the server.
+This is meant to be deployed on Render. Fetching may take a few seconds while Render spins up the server.
